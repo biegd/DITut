@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "soNnEzGE8V0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sfefano\\source\\repos\\DIWpfExample\\DIWpfExample\\DIWpfExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sfefano\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\Sfefano\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
